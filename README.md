@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarasimhaVeluri
-- 👀 I’m interested in Data science| Machine learning | Deep Learning | Artificial intelligence
-- 🌱 I’m currently learning Machine learning and Deep learning Techniques
+- 👀 I’m interested in Data science| Machine learning | Deep Learning | Artificial intelligence | Generative AI
+- 🌱 I’m currently learning Machine learning and Deep learning and NLP techniques
 - 💞️ I’m looking to collaborate on Data science projects
 - Reach me out at narasimhaveluri1@gmail.com
 
